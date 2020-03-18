@@ -1,174 +1,203 @@
 #EXTM3U
 
-#EXTINF:-1,PL | TVP 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="₪₪₪₪₪  [ POLONYA ] ₪₪₪₪₪ " tvg-logo="" group-title="PL | POLONYA",₪₪₪₪₪  [ POLONYA ] ₪₪₪₪₪ 
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8043
+#EXTINF:-1 tvg-id="" tvg-name="PL | TVP 1 HD" tvg-logo="" group-title="PL | POLONYA",PL | TVP 1 HD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21127
-#EXTINF:-1,PL | TVP 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="PL | TVP 2 HD" tvg-logo="" group-title="PL | POLONYA",PL | TVP 2 HD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21128
-#EXTINF:-1,PL | TVP POLONIA
+#EXTINF:-1 tvg-id="" tvg-name="PL | TVP POLONIA" tvg-logo="" group-title="PL | POLONYA",PL | TVP POLONIA
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21129
-#EXTINF:-1,PL | TVP SERIALE
+#EXTINF:-1 tvg-id="" tvg-name="PL | TVP SERIALE" tvg-logo="" group-title="PL | POLONYA",PL | TVP SERIALE
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21130
-#EXTINF:-1,PL | TVP SPORT HD
+#EXTINF:-1 tvg-id="" tvg-name="PL | TVP SPORT HD" tvg-logo="" group-title="PL | POLONYA",PL | TVP SPORT HD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21131
-#EXTINF:-1,PL | TVP HISTORIA
+#EXTINF:-1 tvg-id="" tvg-name="PL | TVP HISTORIA" tvg-logo="" group-title="PL | POLONYA",PL | TVP HISTORIA
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21132
-#EXTINF:-1,PL | POLSAT HD
+#EXTINF:-1 tvg-id="" tvg-name="PL | POLSAT HD" tvg-logo="" group-title="PL | POLONYA",PL | POLSAT HD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21133
-#EXTINF:-1,PL | POLSAT 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="PL | POLSAT 2 HD" tvg-logo="" group-title="PL | POLONYA",PL | POLSAT 2 HD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21134
-#EXTINF:-1,PL | POLSAT FILM HD
+#EXTINF:-1 tvg-id="" tvg-name="PL | POLSAT FILM HD" tvg-logo="" group-title="PL | POLONYA",PL | POLSAT FILM HD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21135
-#EXTINF:-1,PL | POLSAT JIMJAM
+#EXTINF:-1 tvg-id="" tvg-name="PL | POLSAT JIMJAM" tvg-logo="" group-title="PL | POLONYA",PL | POLSAT JIMJAM
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21136
-#EXTINF:-1,PL | HBO HD
+#EXTINF:-1 tvg-id="" tvg-name="PL | CINEMAX HD (1080)" tvg-logo="" group-title="PL | POLONYA",PL | CINEMAX HD (1080)
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21137
+#EXTINF:-1 tvg-id="" tvg-name="PL | CINEMAX 2 HD" tvg-logo="" group-title="PL | POLONYA",PL | CINEMAX 2 HD
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21138
+#EXTINF:-1 tvg-id="" tvg-name="PL | FILMBOX" tvg-logo="" group-title="PL | POLONYA",PL | FILMBOX
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21139
+#EXTINF:-1 tvg-id="" tvg-name="PL | FILMBOX PREMIUM" tvg-logo="" group-title="PL | POLONYA",PL | FILMBOX PREMIUM
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21140
+#EXTINF:-1 tvg-id="" tvg-name="PL | FILMBOX ACTION" tvg-logo="" group-title="PL | POLONYA",PL | FILMBOX ACTION
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21141
+#EXTINF:-1 tvg-id="" tvg-name="PL | FILMBOX ARTHOUSE" tvg-logo="" group-title="PL | POLONYA",PL | FILMBOX ARTHOUSE
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21142
+#EXTINF:-1 tvg-id="" tvg-name="PL | FILMBOX FAMILY" tvg-logo="" group-title="PL | POLONYA",PL | FILMBOX FAMILY
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21143
+#EXTINF:-1 tvg-id="" tvg-name="PL | HBO HD" tvg-logo="" group-title="PL | POLONYA",PL | HBO HD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21144
-#EXTINF:-1,PL | HBO 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="PL | HBO 2 HD" tvg-logo="" group-title="PL | POLONYA",PL | HBO 2 HD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21145
-#EXTINF:-1,PL | HBO 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="PL | HBO 3 HD" tvg-logo="" group-title="PL | POLONYA",PL | HBO 3 HD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21146
-#EXTINF:-1,PL | ID
+#EXTINF:-1 tvg-id="" tvg-name="PL | ID" tvg-logo="" group-title="PL | POLONYA",PL | ID
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21147
-#EXTINF:-1,PL | DISCO POLO
+#EXTINF:-1 tvg-id="" tvg-name="PL | DISCO POLO" tvg-logo="" group-title="PL | POLONYA",PL | DISCO POLO
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21148
-#EXTINF:-1,PL | DISCOVERY FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | DISCOVERY FHD" tvg-logo="" group-title="PL | POLONYA",PL | DISCOVERY FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21149
-#EXTINF:-1,PL | DISCOVERY HISTORIA
+#EXTINF:-1 tvg-id="" tvg-name="PL | DISCOVERY HISTORIA" tvg-logo="" group-title="PL | POLONYA",PL | DISCOVERY HISTORIA
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21150
-#EXTINF:-1,PL | DISCOVERY TURBO XTRA
+#EXTINF:-1 tvg-id="" tvg-name="PL | DISCOVERY TURBO XTRA" tvg-logo="" group-title="PL | POLONYA",PL | DISCOVERY TURBO XTRA
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21151
-#EXTINF:-1,PL | DISCOVERY LIFE HD
+#EXTINF:-1 tvg-id="" tvg-name="PL | DISCOVERY LIFE HD" tvg-logo="" group-title="PL | POLONYA",PL | DISCOVERY LIFE HD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21152
-#EXTINF:-1,PL | DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="" tvg-name="PL | DISCOVERY SCIENCE" tvg-logo="" group-title="PL | POLONYA",PL | DISCOVERY SCIENCE
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21153
-#EXTINF:-1,PL | TVP FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | TVP FHD" tvg-logo="" group-title="PL | POLONYA",PL | TVP FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21154
-#EXTINF:-1,PL | TVP 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | TVP 1 FHD" tvg-logo="" group-title="PL | POLONYA",PL | TVP 1 FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21155
-#EXTINF:-1,PL | TVN Style FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | TVN Style FHD" tvg-logo="" group-title="PL | POLONYA",PL | TVN Style FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21156
-#EXTINF:-1,PL | TVN FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | TVN FHD" tvg-logo="" group-title="PL | POLONYA",PL | TVN FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21157
-#EXTINF:-1,PL | TVN Fabula FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | TVN Fabula FHD" tvg-logo="" group-title="PL | POLONYA",PL | TVN Fabula FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21158
-#EXTINF:-1,PL | TVN 7 FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | TVN 7 FHD" tvg-logo="" group-title="PL | POLONYA",PL | TVN 7 FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21159
-#EXTINF:-1,PL | TVN 24 FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | TVN 24 FHD" tvg-logo="" group-title="PL | POLONYA",PL | TVN 24 FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21160
-#EXTINF:-1,PL | TV4 FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | TV4 FHD" tvg-logo="" group-title="PL | POLONYA",PL | TV4 FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21161
-#EXTINF:-1,PL | TV Puls FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | TV Puls FHD" tvg-logo="" group-title="PL | POLONYA",PL | TV Puls FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21162
-#EXTINF:-1,PL | TLC FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | TLC FHD" tvg-logo="" group-title="PL | POLONYA",PL | TLC FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21163
-#EXTINF:-1,PL | Sundance TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | Sundance TV FHD" tvg-logo="" group-title="PL | POLONYA",PL | Sundance TV FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21164
-#EXTINF:-1,PL | Sport Klub Polska FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | Sport Klub Polska FHD" tvg-logo="" group-title="PL | POLONYA",PL | Sport Klub Polska FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21165
-#EXTINF:-1,PL | SciFi Universal FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | SciFi Universal FHD" tvg-logo="" group-title="PL | POLONYA",PL | SciFi Universal FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21166
-#EXTINF:-1,PL | Romance TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | Romance TV FHD" tvg-logo="" group-title="PL | POLONYA",PL | Romance TV FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21167
-#EXTINF:-1,PL | Polsat Viasat Nautre FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | Polsat Viasat Nautre FHD" tvg-logo="" group-title="PL | POLONYA",PL | Polsat Viasat Nautre FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21168
-#EXTINF:-1,PL | Polsat Viasat History FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | Polsat Viasat History FHD" tvg-logo="" group-title="PL | POLONYA",PL | Polsat Viasat History FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21169
-#EXTINF:-1,PL | Polsat Viasat Explorer FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | Polsat Viasat Explorer FHD" tvg-logo="" group-title="PL | POLONYA",PL | Polsat Viasat Explorer FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21170
-#EXTINF:-1,PL | Polsat Rodzina FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | Polsat Rodzina FHD" tvg-logo="" group-title="PL | POLONYA",PL | Polsat Rodzina FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21171
-#EXTINF:-1,PL | Polsat News FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | Polsat News FHD" tvg-logo="" group-title="PL | POLONYA",PL | Polsat News FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21172
-#EXTINF:-1,PL | Polsat Music FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | Polsat Music FHD" tvg-logo="" group-title="PL | POLONYA",PL | Polsat Music FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21173
-#EXTINF:-1,PL | Polsat Games FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | Polsat Games FHD" tvg-logo="" group-title="PL | POLONYA",PL | Polsat Games FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21174
-#EXTINF:-1,PL | Polsat FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | Polsat FHD" tvg-logo="" group-title="PL | POLONYA",PL | Polsat FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21175
-#EXTINF:-1,PL | Polsat Doku FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | Polsat Doku FHD" tvg-logo="" group-title="PL | POLONYA",PL | Polsat Doku FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21176
-#EXTINF:-1,PL | Polsat Cafe FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | Polsat Cafe FHD" tvg-logo="" group-title="PL | POLONYA",PL | Polsat Cafe FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21177
-#EXTINF:-1,PL | Polsat 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | Polsat 2 FHD" tvg-logo="" group-title="PL | POLONYA",PL | Polsat 2 FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21178
-#EXTINF:-1,PL | Paramount Channel FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | Paramount Channel FHD" tvg-logo="" group-title="PL | POLONYA",PL | Paramount Channel FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21179
-#EXTINF:-1,PL | Nat Geo People FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | Nat Geo People FHD" tvg-logo="" group-title="PL | POLONYA",PL | Nat Geo People FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21180
-#EXTINF:-1,PL | MTV Polska FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | MTV Polska FHD" tvg-logo="" group-title="PL | POLONYA",PL | MTV Polska FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21181
-#EXTINF:-1,PL | Motowizja FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | Motowizja FHD" tvg-logo="" group-title="PL | POLONYA",PL | Motowizja FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21182
-#EXTINF:-1,PL | Lifetime FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | Lifetime FHD" tvg-logo="" group-title="PL | POLONYA",PL | Lifetime FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21183
-#EXTINF:-1,PL | Kuchnia FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | Kuchnia FHD" tvg-logo="" group-title="PL | POLONYA",PL | Kuchnia FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21184
-#EXTINF:-1,PL | KSW PPV FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | KSW PPV FHD" tvg-logo="" group-title="PL | POLONYA",PL | KSW PPV FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21185
-#EXTINF:-1,PL | Kino Polska FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | Kino Polska FHD" tvg-logo="" group-title="PL | POLONYA",PL | Kino Polska FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21186
-#EXTINF:-1,PL | Investigation Discovery FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | Investigation Discovery FHD" tvg-logo="" group-title="PL | POLONYA",PL | Investigation Discovery FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21187
-#EXTINF:-1,PL | History 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | History 2 FHD" tvg-logo="" group-title="PL | POLONYA",PL | History 2 FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21188
-#EXTINF:-1,PL | HBO 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | HBO 3 FHD" tvg-logo="" group-title="PL | POLONYA",PL | HBO 3 FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21189
-#EXTINF:-1,PL | HBO 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | HBO 2 FHD" tvg-logo="" group-title="PL | POLONYA",PL | HBO 2 FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21190
-#EXTINF:-1,PL | Gold Channel FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | Gold Channel FHD" tvg-logo="" group-title="PL | POLONYA",PL | Gold Channel FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21191
-#EXTINF:-1,PL | Fox FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | Fox FHD" tvg-logo="" group-title="PL | POLONYA",PL | Fox FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21192
-#EXTINF:-1,PL | Fox Comedy FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | Fox Comedy FHD" tvg-logo="" group-title="PL | POLONYA",PL | Fox Comedy FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21193
-#EXTINF:-1,PL | Food Network FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | Food Network FHD" tvg-logo="" group-title="PL | POLONYA",PL | Food Network FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21194
-#EXTINF:-1,PL | Filmbox Extra FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | Filmbox Extra FHD" tvg-logo="" group-title="PL | POLONYA",PL | Filmbox Extra FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21195
-#EXTINF:-1,PL | Extreme Sports FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | Extreme Sports FHD" tvg-logo="" group-title="PL | POLONYA",PL | Extreme Sports FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21196
-#EXTINF:-1,PL | Eurosport 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | Eurosport 2 FHD" tvg-logo="" group-title="PL | POLONYA",PL | Eurosport 2 FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21197
-#EXTINF:-1,PL | Epic DRAMA FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | Epic DRAMA FHD" tvg-logo="" group-title="PL | POLONYA",PL | Epic DRAMA FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21198
-#EXTINF:-1,PL | E! Entertainment FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | E! Entertainment FHD" tvg-logo="" group-title="PL | POLONYA",PL | E! Entertainment FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21199
-#EXTINF:-1,PL | DTX FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | DTX FHD" tvg-logo="" group-title="PL | POLONYA",PL | DTX FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21200
-#EXTINF:-1,PL | Domo Plus FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | Domo Plus FHD" tvg-logo="" group-title="PL | POLONYA",PL | Domo Plus FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21201
-#EXTINF:-1,PL | Disney Channel FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | Disney Channel FHD" tvg-logo="" group-title="PL | POLONYA",PL | Disney Channel FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21202
-#EXTINF:-1,PL | Discovery Science FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | Discovery Science FHD" tvg-logo="" group-title="PL | POLONYA",PL | Discovery Science FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21203
-#EXTINF:-1,PL | Discovery Life FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | Discovery Life FHD" tvg-logo="" group-title="PL | POLONYA",PL | Discovery Life FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21204
-#EXTINF:-1,PL | Discovery Channel FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | Discovery Channel FHD" tvg-logo="" group-title="PL | POLONYA",PL | Discovery Channel FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21205
-#EXTINF:-1,PL | BBC Earth FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | Comedy Central Family Polska FHD" tvg-logo="" group-title="PL | POLONYA",PL | Comedy Central Family Polska FHD
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21206
+#EXTINF:-1 tvg-id="" tvg-name="PL | Cinemax FHD" tvg-logo="" group-title="PL | POLONYA",PL | Cinemax FHD
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21207
+#EXTINF:-1 tvg-id="" tvg-name="PL | Cartoon Network FHD" tvg-logo="" group-title="PL | POLONYA",PL | Cartoon Network FHD
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21208
+#EXTINF:-1 tvg-id="" tvg-name="PL | Canal Film FHD" tvg-logo="" group-title="PL | POLONYA",PL | Canal Film FHD
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21209
+#EXTINF:-1 tvg-id="" tvg-name="PL | Canal Family FHD" tvg-logo="" group-title="PL | POLONYA",PL | Canal Family FHD
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21210
+#EXTINF:-1 tvg-id="" tvg-name="PL | BBC Earth FHD" tvg-logo="" group-title="PL | POLONYA",PL | BBC Earth FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21211
-#EXTINF:-1,PL | BBC Brit FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL | BBC Brit FHD" tvg-logo="" group-title="PL | POLONYA",PL | BBC Brit FHD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21212
-#EXTINF:-1,PL | Tvp Sport
+#EXTINF:-1 tvg-id="" tvg-name="PL | Tvp Sport" tvg-logo="" group-title="PL | POLONYA",PL | Tvp Sport
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21213
-#EXTINF:-1,PL | Tvp
+#EXTINF:-1 tvg-id="" tvg-name="PL | Tvp" tvg-logo="" group-title="PL | POLONYA",PL | Tvp
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21214
-#EXTINF:-1,PL | REPUBLIKA
+#EXTINF:-1 tvg-id="" tvg-name="PL | REPUBLIKA" tvg-logo="" group-title="PL | POLONYA",PL | REPUBLIKA
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21215
-#EXTINF:-1,PL | CINEMAX HD
+#EXTINF:-1 tvg-id="" tvg-name="PL | CINEMAX HD" tvg-logo="" group-title="PL | POLONYA",PL | CINEMAX HD
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21216
-#EXTINF:-1,PL | Tvn Turbo
+#EXTINF:-1 tvg-id="" tvg-name="PL | Tvn Turbo" tvg-logo="" group-title="PL | POLONYA",PL | Tvn Turbo
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21217
-#EXTINF:-1,PL | ELEVEN SPORT
+#EXTINF:-1 tvg-id="" tvg-name="PL | ELEVEN SPORT" tvg-logo="" group-title="PL | POLONYA",PL | ELEVEN SPORT
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21218
-#EXTINF:-1,PL | Polsat 2
+#EXTINF:-1 tvg-id="" tvg-name="PL | Polsat Film" tvg-logo="" group-title="PL | POLONYA",PL | Polsat Film
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21219
+#EXTINF:-1 tvg-id="" tvg-name="PL | Polsat 2" tvg-logo="" group-title="PL | POLONYA",PL | Polsat 2
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21220
-#EXTINF:-1,PL | TVT
+#EXTINF:-1 tvg-id="" tvg-name="PL | Canal Film HD" tvg-logo="" group-title="PL | POLONYA",PL | Canal Film HD
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21221
+#EXTINF:-1 tvg-id="" tvg-name="PL | TVT" tvg-logo="" group-title="PL | POLONYA",PL | TVT
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21222
-#EXTINF:-1,PL | STELLA
+#EXTINF:-1 tvg-id="" tvg-name="PL | STELLA" tvg-logo="" group-title="PL | POLONYA",PL | STELLA
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21223
-#EXTINF:-1,PL | UNIVERSAL
+#EXTINF:-1 tvg-id="" tvg-name="PL | UNIVERSAL" tvg-logo="" group-title="PL | POLONYA",PL | UNIVERSAL
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/21224
-
 
 
 
