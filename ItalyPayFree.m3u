@@ -1,5 +1,168 @@
 #EXTM3U
 
+#EXTINF:-1,---TOP ITALIA---
+#EXTINF:-1,Rai 1 
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803
+#EXTINF:-1,RAI 1 OPZ 2(SOLO CON KODI PVR CLIENT)
+https://tv.si/ts/RAI1/stream_iptv_2000k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1,Rai 2  
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=180116
+#EXTINF:-1,RAI 2 OPZ 2 (SOLO CON KODI PVR CLIENT)
+https://tv.si/ts/RAI2/stream_iptv_2000k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1,Rai 3  
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=180117
+#EXTINF:-1,RAI 3 OPZ 2 (SOLO CON KODI PVR CLIENT)
+https://tv.si/ts/RAI3/stream_iptv_2000k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1,Rete 4 
+https://link.theplatform.eu/s/PR1GhC/_VvNg2UvGj4r
+#EXTINF:-1,Rete 4 (Opz.2)
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
+#EXTINF:-1,Canale 5 
+https://link.theplatform.eu/s/PR1GhC/juxmCfbJGxNe
+#EXTINF:-1,Canale 5 (Opz.2)
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
+#EXTINF:-1,Italia 1 
+https://link.theplatform.eu/s/PR1GhC/tLTET8gDdRgh
+#EXTINF:-,Italia 1 (Opz.2)
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
+#EXTINF:-1,La 7 
+http://5.135.92.133:52841/out/u/101_1.m3u8
+#EXTINF:-1,La 7 (opz 2)
+http://5.135.92.133:52841/out/u/99_1.m3u8
+#EXTINF:-1,LA 7 D (test)
+http://bit.ly/33HIWod
+#EXTINF:-1,Nove hd 
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+#EXTINF:-1,RSI La1 
+https://odmsto.com/sh/1
+#EXTINF:-1,RSI La2 
+https://odmsto.com/sh/2
+#EXTINF:-1,Giallo 
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
+#EXTINF:-1,Giallo (opz 2)
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8?sd=10&rebase=on
+#EXTINF:-1,Focus  
+https://link.theplatform.eu/s/PR1GhC/WxOa6HLO1_5T
+#EXTINF:-1,Focus (Opz.2)
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
+#EXTINF:-1,Dmax HD
+https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
+#EXTINF:-1,Top Crime
+https://link.theplatform.eu/s/PR1GhC/NKL__pIA0lsi
+#EXTINF:-1,Top Crime(Opz.2)
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
+#EXTINF:-1,Mediaset Extra
+https://link.theplatform.eu/s/PR1GhC/i1ixCGv2cEbc
+#EXTINF:-1,Mediaset Extra (Opz.2)
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
+#EXTINF:-1,Italia 2
+https://link.theplatform.eu/s/PR1GhC/zdwOoU7nF7Y3
+#EXTINF:-1,Italia 2 (Opz.2)
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
+#EXTINF:-1,Iris
+https://link.theplatform.eu/s/PR1GhC/v1x_uEfqb8NR
+#EXTINF:-1,Iris (Opz.2)
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
+#EXTINF:-1,20
+https://link.theplatform.eu/s/PR1GhC/jMAFh1mSmJsJ
+#EXTINF:-,20 (Opz.2)
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
+#EXTINF:-1,La 5
+https://link.theplatform.eu/s/PR1GhC/FwTXttD8uPIo
+#EXTINF:-1,La 5 (Opz.2)
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
+#EXTINF:-1,Cine 34 Mediaset 
+https://link.theplatform.eu/s/PR1GhC/Tp5a9YEUz198
+#EXTINF:-1,Cine 34 Mediaset (Opz. 2)
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
+#EXTINF:-1,Rai Italia (TEST)
+https://1891034230.rsc.cdn77.org/1891034230/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Rai 4
+https://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Rai 5
+https://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Real Time hd
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
+#EXTINF:-1,Paramount Channel
+http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8
+#EXTINF:-1,Rai Movie
+https://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Rai Premium
+https://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Cartoonito  
+https://link.theplatform.eu/s/PR1GhC/u9yLHp6oUpSv
+#EXTINF:-1,Cartoonito (Opz.2)
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8
+#EXTINF:-1,Boing
+https://link.theplatform.eu/s/PR1GhC/tjkkRaHZdA19
+#EXTINF:-1,Boing (opz 2)
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
+#EXTINF:-1,GF VIP Regia 1 
+https://link.theplatform.eu/s/PR1GhC/v_00M68zr6UY
+#EXTINF:-1,GF VIP Regia 2 
+https://link.theplatform.eu/s/PR1GhC/_jRoGcXzKNHI
+#EXTINF:-1,GF VIP Un'ora fa 
+https://link.theplatform.eu/s/PR1GhC/icyhIv_c49Yi
+#EXTINF:-1,Rai Gulp
+https://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1800_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Rai Yoyo
+https://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Frisbee (off-line)
+https://mytivu.it/Application/Channels/Frisbee.php
+#EXTINF:-1,K2 
+https://mytivu.it/Application/Channels/K2.php
+#EXTINF:-1,Cartoon Live! Best Classic-Tom&Jerry,LooneyTunes-ScoobyDoo-24/24(English)
+http://bit.ly/2QexrQV
+#EXTINF:-1,Cartoon Live! Best Classic-Tom&Jerry,LooneyTunes-ScoobyDoo-24/24((Italiano)
+http://bit.ly/2u5NRSY
+#EXTINF:-1,Earth Tv 
+http://livecdn-de-earthtv-com.global.ssl.fastly.net/edge0/cdnedge/HicYJzEAB5E/playlist.m3u8
+#EXTINF:-1,Rai Storia
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=24269
+#EXTINF:-1,Rai Scuola
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=24268
+#EXTINF:-1,Motor Trend
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
+#EXTINF:-1,Spike
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_1200_av-b.m3u8
+#EXTINF:-1,Tv 2000
+http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
+#EXTINF:-1,Tele Padre Pio
+https://5698c1463445c.streamlock.net/TRPP_live/smil:bcffcc98-ac2f-4b73-b0a5-ad1bfb96d845_all.smil/chunklist_w738465886_b130000_slita.m3u8
+#EXTINF:-1,TelePace
+http://live-fs.mariatvcdn.com/mariatvpoint/d36592901d5429dd7f9ec1e7bbeda8c2.sdp/playlist.m3u8
+#EXTINF:-1,History Lab
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1,Tv Koper Capodistria
+https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/chunklist_b128800.m3u8
+#EXTINF:-1,Senato Tv
+http://senato-live.morescreens.com/senato-live/ngrp:webtv1_all/chunklist_b1155072.m3u8
+#EXTINF:-1,HSE 24
+https://hse24it.akamaized.net/hls/live/2006598/hse24it/master_576_1p25.m3u8
+#EXTINF:-1,Wine Channel
+http://212.43.97.35:1935/winechannel/winechannel/playlist.m3u8
+#EXTINF:-1,Radio Radicale Tv
+https://video-ar.radioradicale.it/diretta/padtv2/chunklist_w1407840611.m3u8
+#EXTINF:-1,Food Network hd 
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8?sd=10&rebase=on
+#EXTINF:-1,Marcopolo (off line) 
+https://dcunilive131-lh.akamaihd.net/i/dclive_1@352774/index_150_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Alice (off line)
+https://dcunilive130-lh.akamaihd.net/i/dclive_1@352796/index_150_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Fashion Tv
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/playlist.m3u8
+#EXTINF:-1,ID Fashion
+https://bozztv.com/36bay2/gin/giniko_idfashion_900kb_36bay2/index.m3u8
+#EXTINF:-1,Fashion One Tv
+https://bozztv.com/36bay2/gin/giniko_fashionone_800kb_36bay2/index.m3u8
+#EXTINF:-1,Model Inc
+https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
+#EXTINF:-1,Class CNBC
+http://api.new.livestream.com/accounts/25225027/events/7999644/live.m3u8
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="IT-VIP: 20 Mediaset" tvg-logo="" group-title="ITaly FHD HD",IT-VIP: 20 Mediaset
