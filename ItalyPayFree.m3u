@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,---ITALIA FREE---
+
 #EXTINF:-1 tvg-id="Rai 1" tvg-name="Rai 1" tvg-chno="" group-title="",Rai 1 HD
 http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803
 
