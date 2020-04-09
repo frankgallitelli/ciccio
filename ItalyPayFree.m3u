@@ -1,5 +1,166 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="Rai 1" tvg-name="Rai 1" tvg-chno="" group-title="",Rai 1 HD
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803
+
+#EXTINF:-1 tvg-id="Rai 2" tvg-name="Rai 2" tvg-chno="" group-title="",Rai 2 HD
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=180116
+
+#EXTINF:-1 tvg-id="Rai 3" tvg-name="Rai 3" tvg-chno="" group-title="",Rai 3 HD
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=180117
+
+#EXTINF:-1 tvg-id="Rete 4" tvg-name="Rete 4" tvg-chno="" group-title="",Rete 4
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
+
+#EXTINF:-1 tvg-id="Canale 5" tvg-name="Canale 5" tvg-chno="" group-title="",Canale 5
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
+
+#EXTINF:-1 tvg-id="Italia 1" tvg-name="Italia 1" tvg-chno="" group-title="",Italia 1
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I1)/index.m3u8
+
+#EXTINF:-1 tvg-id="NOVE" tvg-name="NOVE" group-title="" tvg-chno="",Nove HD
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+
+#EXTINF:-1 tvg-id="Rai 4" tvg-name="Rai 4" tvg-chno="" group-title="",Rai 4 HD
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
+
+#EXTINF:-1 tvg-id="Mediaset 20" tvg-name="Mediaset 20" tvg-chno="" group-title="",Mediaset 20
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
+
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel" tvg-chno="" group-title="",Paramount Channel
+http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Rai Movie" tvg-name="Rai Movie" tvg-chno="" group-title="",Rai Movie HD
+https://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Rai Premium" tvg-name="Rai Premium" tvg-chno="" group-title="",Rai Premium HD
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Rai 5" tvg-name="Rai 5" tvg-chno="" group-title="",Rai 5 HD
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72382
+
+#EXTINF:-1 tvg-id="Iris" tvg-name="Iris" tvg-chno="" group-title="",Iris
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
+
+#EXTINF:-1 tvg-id="Cine34" tvg-name="Cine34" tvg-chno="" group-title="",Cine34
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
+
+#EXTINF:-1 tvg-id="Top Crime" tvg-name="Top Crime" tvg-chno="" group-title="",Top Crime
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
+
+#EXTINF:-1 tvg-id="Mediaset Extra" tvg-name="Mediaset Extra" tvg-chno="" group-title="",Mediaset Extra
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
+
+#EXTINF:-1 tvg-id="Italia 2" tvg-name="Italia 2" tvg-chno="" group-title="",Italia 2
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I2)/index.m3u8
+
+#EXTINF:-1 tvg-id="La 5" tvg-name="La 5" tvg-chno="" group-title="",La5
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
+
+#EXTINF:-1 tvg-id="Real Time" tvg-name="Real Time" group-title="" tvg-chno="",Real Time HD
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
+
+#EXTINF:-1 tvg-id="Spike" tvg-name="Spike" group-title="" tvg-chno="",Spike
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_2500_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" group-title="" tvg-chno="",DMAX
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
+
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-chno="" group-title="",HGTV
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8
+
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-chno="" group-title="",Food Network
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
+
+#EXTINF:-1 tvg-id="Giallo" tvg-name="Giallo" group-title="" tvg-chno="",Giallo HD
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
+
+#EXTINF:-1 tvg-id="Focus" tvg-name="Focus" tvg-chno="" group-title="",Focus
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
+
+#EXTINF:-1 tvg-id="Rai Storia" tvg-name="Rai Storia" tvg-chno="" group-title="",Rai Storia HD
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=24269
+
+#EXTINF:-1 tvg-id="Rai Scuola" tvg-name="Rai Scuola" tvg-chno="" group-title="",Rai Scuola HD
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=24268
+
+#EXTINF:-1 tvg-id="Rai Sport" tvg-name="Rai Sport+" tvg-chno="" group-title="",Rai Sport +
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=4145
+
+#EXTINF:-1 tvg-id="MOTORTREND" tvg-name="MOTORTREND" group-title="" tvg-chno="",Motor Trend HD
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
+
+#EXTINF:-1 tvg-id="RAI News 24" tvg-name="Rai News" tvg-chno="" group-title="",Rai News 24
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tgcom 24" tvg-name="TGCOM24" tvg-chno="" group-title="",Tgcom24
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
+
+#EXTINF:-1 tvg-id="BFC" tvg-name="BFC" tvg-chno="" group-title="",BFC
+https://backup.superstreaming.inaria.me/BFC/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Rai Gulp" tvg-name="Rai Gulp" tvg-chno="" group-title="",Rai Gulp HD
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4119
+
+#EXTINF:-1 tvg-id="Rai Yoyo" tvg-name="Rai Yoyo" tvg-chno="" group-title="",Rai Yoyo HD
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
+
+#EXTINF:-1 tvg-id="Boing" tvg-name="Boing" tvg-chno="" group-title="",Boing
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
+
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" tvg-chno="" group-title="",Cartoonito
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8
+
+#EXTINF:-1 tvg-id="QVC Italia" tvg-name="QVC Italia" tvg-chno="" group-title="",QVC Italia
+http://qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/manifest.m3u8
+
+#EXTINF:-1 tvg-id="HSE24" tvg-name="HSE24" tvg-chno="" group-title="",HSE24
+https://hse24it.akamaized.net/hls/live/2006598-b/hse24it/master_576_2p25.m3u8
+
+#EXTINF:-1 tvg-id="Deejay tv" tvg-name="Deejay tv" tvg-chno="" group-title="",Deejay TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
+
+#EXTINF:-1 tvg-id="RTL 102.5 TV" tvg-name="RTL 102.5 TV" tvg-chno="" group-title="",RTL 102.5 HD
+https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist_b2296000.m3u8
+
+#EXTINF:-1 tvg-id="Radio 105 TV" tvg-name="Radio 105 TV" tvg-logo="Radio 105 TV" group-title="",Radio 105 TV
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Virgin TV" tvg-name="Virgin TV" tvg-logo="Virgin TV" group-title="",Virgin TV
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
+
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="VH1" group-title="",VH1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+
+#EXTINF:-1 tvg-id="R101 TV " tvg-name="R101 TV " tvg-logo="R101 TV " group-title="",R101 TV 
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(er)/index.m3u8
+
+#EXTINF:-1 tvg-id="Radio Montecarlo TV " tvg-name="Radio Montecarlo TV " tvg-logo="Radio Montecarlo TV " group-title="",Radio Montecarlo TV
+http://fms.105.net:1935/live/rmc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FM Italia " tvg-name="FM Italia " tvg-logo="FM Italia " group-title="",FM Italia 
+https://flash8.xdevel.com/fmitalia/fmitalia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Capital TV" tvg-name="Capital TV" tvg-logo="Capital TV" group-title="",Capital TV
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+
+#EXTINF:-1 tvg-id="M2o Tv" tvg-name="M2o Tv" tvg-logo="M2o Tv" group-title="",M2o Tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+
+#EXTINF:-1 tvg-id="KIssKiss TV" tvg-name="KIssKiss TV" tvg-logo="KIssKiss TV" group-title="",KIssKiss TV
+http://wma05.fluidstream.net/KKMulti/livestream_600p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KissKiss Italia TV" tvg-name="KissKiss Italia TV" tvg-logo="KissKiss Italia TV" group-title="",KissKiss Italia TV
+http://wma05.fluidstream.net/KKTV01/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Vuemme" tvg-name="Vuemme" tvg-logo="Vuemme" group-title="",Vuemme
+https://dcunilive28-lh.akamaihd.net/i/dclive_1@531032/index_150_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Radio Freccia" tvg-name="Radio Freccia" tvg-logo="Radio Freccia" group-title="",Radio Freccia
+https://rtl-radio-stream-thron.akamaized.net/live-video/video2/ngrp:video2/chunklist_b1196000.m3u8
+
+
 #EXTINF:-1,---TOP ITALIA---
 #EXTINF:-1,Rai 1 
 http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803
@@ -761,169 +922,6 @@ http://hdliveiptv.com:7879/mamoun/mamoun/110291
 http://hdliveiptv.com:7879/mamoun/mamoun/110292
 
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="Rai 1" tvg-name="Rai 1" tvg-chno="" group-title="",Rai 1 HD
-http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803
-
-#EXTINF:-1 tvg-id="Rai 2" tvg-name="Rai 2" tvg-chno="" group-title="",Rai 2 HD
-http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=180116
-
-#EXTINF:-1 tvg-id="Rai 3" tvg-name="Rai 3" tvg-chno="" group-title="",Rai 3 HD
-http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=180117
-
-#EXTINF:-1 tvg-id="Rete 4" tvg-name="Rete 4" tvg-chno="" group-title="",Rete 4
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
-
-#EXTINF:-1 tvg-id="Canale 5" tvg-name="Canale 5" tvg-chno="" group-title="",Canale 5
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
-
-#EXTINF:-1 tvg-id="Italia 1" tvg-name="Italia 1" tvg-chno="" group-title="",Italia 1
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I1)/index.m3u8
-
-#EXTINF:-1 tvg-id="NOVE" tvg-name="NOVE" group-title="" tvg-chno="",Nove HD
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
-
-#EXTINF:-1 tvg-id="Rai 4" tvg-name="Rai 4" tvg-chno="" group-title="",Rai 4 HD
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
-
-#EXTINF:-1 tvg-id="Mediaset 20" tvg-name="Mediaset 20" tvg-chno="" group-title="",Mediaset 20
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
-
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel" tvg-chno="" group-title="",Paramount Channel
-http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8
-
-#EXTINF:-1 tvg-id="Rai Movie" tvg-name="Rai Movie" tvg-chno="" group-title="",Rai Movie HD
-https://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-id="Rai Premium" tvg-name="Rai Premium" tvg-chno="" group-title="",Rai Premium HD
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-id="Rai 5" tvg-name="Rai 5" tvg-chno="" group-title="",Rai 5 HD
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72382
-
-#EXTINF:-1 tvg-id="Iris" tvg-name="Iris" tvg-chno="" group-title="",Iris
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
-
-#EXTINF:-1 tvg-id="Cine34" tvg-name="Cine34" tvg-chno="" group-title="",Cine34
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
-
-#EXTINF:-1 tvg-id="Top Crime" tvg-name="Top Crime" tvg-chno="" group-title="",Top Crime
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
-
-#EXTINF:-1 tvg-id="Mediaset Extra" tvg-name="Mediaset Extra" tvg-chno="" group-title="",Mediaset Extra
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
-
-#EXTINF:-1 tvg-id="Italia 2" tvg-name="Italia 2" tvg-chno="" group-title="",Italia 2
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I2)/index.m3u8
-
-#EXTINF:-1 tvg-id="La 5" tvg-name="La 5" tvg-chno="" group-title="",La5
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
-
-#EXTINF:-1 tvg-id="Real Time" tvg-name="Real Time" group-title="" tvg-chno="",Real Time HD
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
-
-#EXTINF:-1 tvg-id="Spike" tvg-name="Spike" group-title="" tvg-chno="",Spike
-https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_2500_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" group-title="" tvg-chno="",DMAX
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
-
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-chno="" group-title="",HGTV
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8
-
-#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-chno="" group-title="",Food Network
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
-
-#EXTINF:-1 tvg-id="Giallo" tvg-name="Giallo" group-title="" tvg-chno="",Giallo HD
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
-
-#EXTINF:-1 tvg-id="Focus" tvg-name="Focus" tvg-chno="" group-title="",Focus
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
-
-#EXTINF:-1 tvg-id="Rai Storia" tvg-name="Rai Storia" tvg-chno="" group-title="",Rai Storia HD
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=24269
-
-#EXTINF:-1 tvg-id="Rai Scuola" tvg-name="Rai Scuola" tvg-chno="" group-title="",Rai Scuola HD
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=24268
-
-#EXTINF:-1 tvg-id="Rai Sport" tvg-name="Rai Sport+" tvg-chno="" group-title="",Rai Sport +
-http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=4145
-
-#EXTINF:-1 tvg-id="MOTORTREND" tvg-name="MOTORTREND" group-title="" tvg-chno="",Motor Trend HD
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
-
-#EXTINF:-1 tvg-id="RAI News 24" tvg-name="Rai News" tvg-chno="" group-title="",Rai News 24
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tgcom 24" tvg-name="TGCOM24" tvg-chno="" group-title="",Tgcom24
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
-
-#EXTINF:-1 tvg-id="BFC" tvg-name="BFC" tvg-chno="" group-title="",BFC
-https://backup.superstreaming.inaria.me/BFC/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Rai Gulp" tvg-name="Rai Gulp" tvg-chno="" group-title="",Rai Gulp HD
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4119
-
-#EXTINF:-1 tvg-id="Rai Yoyo" tvg-name="Rai Yoyo" tvg-chno="" group-title="",Rai Yoyo HD
-http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
-
-#EXTINF:-1 tvg-id="Boing" tvg-name="Boing" tvg-chno="" group-title="",Boing
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
-
-#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" tvg-chno="" group-title="",Cartoonito
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8
-
-#EXTINF:-1 tvg-id="QVC Italia" tvg-name="QVC Italia" tvg-chno="" group-title="",QVC Italia
-http://qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/manifest.m3u8
-
-#EXTINF:-1 tvg-id="HSE24" tvg-name="HSE24" tvg-chno="" group-title="",HSE24
-https://hse24it.akamaized.net/hls/live/2006598-b/hse24it/master_576_2p25.m3u8
-
-#EXTINF:-1 tvg-id="Deejay tv" tvg-name="Deejay tv" tvg-chno="" group-title="",Deejay TV
-http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
-
-#EXTINF:-1 tvg-id="RTL 102.5 TV" tvg-name="RTL 102.5 TV" tvg-chno="" group-title="",RTL 102.5 HD
-https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist_b2296000.m3u8
-
-#EXTINF:-1 tvg-id="Radio 105 TV" tvg-name="Radio 105 TV" tvg-logo="Radio 105 TV" group-title="",Radio 105 TV
-http://fms.105.net:1935/live/105Test1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Virgin TV" tvg-name="Virgin TV" tvg-logo="Virgin TV" group-title="",Virgin TV
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
-
-#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="VH1" group-title="",VH1
-https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-
-#EXTINF:-1 tvg-id="R101 TV " tvg-name="R101 TV " tvg-logo="R101 TV " group-title="",R101 TV 
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(er)/index.m3u8
-
-#EXTINF:-1 tvg-id="Radio Montecarlo TV " tvg-name="Radio Montecarlo TV " tvg-logo="Radio Montecarlo TV " group-title="",Radio Montecarlo TV
-http://fms.105.net:1935/live/rmc1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FM Italia " tvg-name="FM Italia " tvg-logo="FM Italia " group-title="",FM Italia 
-https://flash8.xdevel.com/fmitalia/fmitalia/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Capital TV" tvg-name="Capital TV" tvg-logo="Capital TV" group-title="",Capital TV
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
-
-#EXTINF:-1 tvg-id="M2o Tv" tvg-name="M2o Tv" tvg-logo="M2o Tv" group-title="",M2o Tv
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
-
-#EXTINF:-1 tvg-id="KIssKiss TV" tvg-name="KIssKiss TV" tvg-logo="KIssKiss TV" group-title="",KIssKiss TV
-http://wma05.fluidstream.net/KKMulti/livestream_600p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KissKiss Italia TV" tvg-name="KissKiss Italia TV" tvg-logo="KissKiss Italia TV" group-title="",KissKiss Italia TV
-http://wma05.fluidstream.net/KKTV01/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Vuemme" tvg-name="Vuemme" tvg-logo="Vuemme" group-title="",Vuemme
-https://dcunilive28-lh.akamaihd.net/i/dclive_1@531032/index_150_av-p.m3u8
-
-#EXTINF:-1 tvg-id="Radio Freccia" tvg-name="Radio Freccia" tvg-logo="Radio Freccia" group-title="",Radio Freccia
-https://rtl-radio-stream-thron.akamaized.net/live-video/video2/ngrp:video2/chunklist_b1196000.m3u8
 
 
 
