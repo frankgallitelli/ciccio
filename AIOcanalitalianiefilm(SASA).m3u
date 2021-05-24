@@ -1,0 +1,442 @@
+#EXTM3U
+#EXTINF:-1 ,Canale 2 Altamura
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u8
+#EXTINF:-1 ,Canale 7
+http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
+#EXTINF:-1 ,Canale 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+#EXTINF:-1 ,Canale 8
+http://wms.shared.streamshow.it:80/canale8/canale8/playlist.m3u8
+#EXTINF:-1 ,Carina TV
+http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+#EXTINF:-1 ,Carina TV
+http://wms.shared.streamshow.it/carinatv/mp4:carinatv/playlist.m3u8
+#EXTINF:-1 ,Company TV
+http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
+#EXTINF:-1 ,Deejay TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:-1 ,DeeJay TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
+#EXTINF:-1 ,DMAX
+https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
+#EXTINF:-1 ,Elive TV Brescia
+https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
+#EXTINF:-1 ,Esperia TV
+http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
+#EXTINF:-1 ,Esperia TV
+https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
+#EXTINF:-1 ,ETV Marche
+http://live.sloode.com:1935/etvmarche_live/_definst_/etvmarche/playlist.m3u8
+#EXTINF:-1 ,ETV Marche
+http://live.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8
+#EXTINF:-1 ,Euro Indie Music Chart TV
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 ,Gold TV Roma
+http://151.0.207.99:1935/GoldTV/GOLD_17/playlist.m3u8
+#EXTINF:-1 ,Icaro TV
+https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
+#EXTINF:-1 ,Italia 2 TV
+http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
+#EXTINF:-1 ,LaC TV
+http://StreamCdnC3.mainstreaming.tv:80/cdn/live/100197/SOrBDPy/playlist.m3u8
+#EXTINF:-1 ,m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 ,m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 ,m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on?GrupoTopIptv
+#EXTINF:-1 ,m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
+#EXTINF:-1 ,m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 ,m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+#EXTINF:-1 ,MotorTrend
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
+#EXTINF:-1 ,Nove
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+#EXTINF:-1 ,Orler TV
+https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
+#EXTINF:-1 ,Pescara TV
+http://193.70.81.40:1935/pescaratv/_definst_/pescaratv/chunklist.m3u8
+#EXTINF:-1 ,Prima TV
+http://flash2.streaming.xdevel.com/primatv/primatv/playlist.m3u8
+#EXTINF:-1 ,Radio 51
+https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
+#EXTINF:-1 ,Radio Birikina TV
+https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
+#EXTINF:-1 ,Radio Capital TV
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_2_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,Radio Capital TV
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1 ,Radio Capital TV
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8
+#EXTINF:-1 ,Radio Capital TV
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8
+#EXTINF:-1 ,Radio Capital TV
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1 ,Radio Iglesias
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
+#EXTINF:-1 ,Radio Iglesias
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8
+#EXTINF:-1 ,Radio Italia TV
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+#EXTINF:-1 ,Radio Lombardia TV
+https://flash7.xdevel.com/radiolombardiatv/radiolombardiatv/playlist.m3u8
+#EXTINF:-1 ,Radio Number One TV
+http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
+#EXTINF:-1 ,Radio Siena TV
+http://wz2.newradio.it:1935/9018/9018/chunklist_w229229850.m3u8
+#EXTINF:-1 ,Radionorba TV
+http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8
+#EXTINF:-1 ,Rai 3
+http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
+#EXTINF:-1 ,Rai 3
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+#EXTINF:-1 ,Rai News 24
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001
+#EXTINF:-1 ,Rai Sport
+http://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/index_400_av-p.m3u8
+#EXTINF:-1 ,ReggioTV
+https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8
+#EXTINF:-1 ,Retesole Lazio
+http://5c389faa13be3.streamlock.net:1935/8058/8058/playlist.m3u8
+#EXTINF:-1 ,Reteveneta
+https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/chunklist_w1193659434.m3u8
+#EXTINF:-1 ,RMK TV Sciacca
+http://vod1.kronopress.com:1935/tmk_live/5123-CA5C-9EBE-428A/playlist.m3u8
+#EXTINF:-1 ,RTC Telecalabria
+http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8
+#EXTINF:-1 ,RTC Telecalabria
+https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
+#EXTINF:-1 ,RTL 102.5 TV
+http://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist.m3u8
+#EXTINF:-1 ,RTP
+https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
+#EXTINF:-1 ,Sardegna Uno
+https://59d7d6f47d7fc.streamlock.net/sardegnauno/sardegnauno/playlist.m3u8
+#EXTINF:-1 ,Sophia TV
+https://www.onairport.live/sophiatv-it-live/livestream_low/chunklist_w217998957.m3u8
+#EXTINF:-1 ,Super TV Brescia
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1 ,TELE MONTE NEVE
+http://wms.shared.streamshow.it/telemonteneve/mp4:telemonteneve/playlist.m3u8
+#EXTINF:-1 ,TELE MONTE NEVE 3
+http://wms.shared.streamshow.it/telemonteneve3/mp4:telemonteneve3/playlist.m3u8
+#EXTINF:-1 ,TeleBoario
+http://flash7.streaming.xdevel.com/teleboario/teleboario/playlist.m3u8
+#EXTINF:-1 ,Telechiara
+http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
+#EXTINF:-1 ,Telecitta
+http://213.187.12.18/live/tv1.m3u8
+#EXTINF:-1 ,Telecitta
+http://213.187.12.18:80/live/tv1.m3u8
+#EXTINF:-1 ,Telecolor Lombardia
+https://cdn.mainstreaming.tv/live/324149/hlbAWtl/playlist.m3u8
+#EXTINF:-1 ,Telefoggia
+https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8
+#EXTINF:-1 ,Telegranda
+http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8
+#EXTINF:-1 ,TeleMia
+http://wms.shared.streamshow.it:80/telemia/telemia/playlist.m3u8
+#EXTINF:-1 ,Telemolise
+http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream_tlm/playlist.m3u8
+#EXTINF:-1 ,TeleMonteve
+http://wms.shared.streamshow.it/telemonteneve/telemonteneve/playlist.m3u8
+#EXTINF:-1 ,TeleNordest
+http://wms.shared.streamshow.it/telenord/telenord/chunklist_w299272332.m3u8
+#EXTINF:-1 ,TeleNordest
+https://59d7d6f47d7fc.streamlock.net/telenord/telenord/playlist.m3u8
+#EXTINF:-1 ,TeleQuattro
+http://wms.shared.streamshow.it/telequattro/telequattro/chunklist_w352656972.m3u8
+#EXTINF:-1 ,Teleromagna
+http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+#EXTINF:-1 ,Telesud Trapani
+https://5cbd3bc28341f.streamlock.net:444/telesud/_definst_/live/playlist.m3u8
+#EXTINF:-1 ,Teletricolore
+https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
+#EXTINF:-1 ,TeleVideo Agrigento
+https://59d7d6f47d7fc.streamlock.net/tva/tva/chunklist_w2057719642.m3u8
+#EXTINF:-1 ,Tevere TV
+https://5926fc9c7c5b2.streamlock.net/9098/9098/playlist.m3u8
+#EXTINF:-1 ,TLN Tele Lazio Nord
+http://tln.srfms.com:1935/TLN/livestream/playlist.m3u8
+#EXTINF:-1 ,TR Mia
+http://livetr.teleromagna.it/news/live/playlist.m3u8
+#EXTINF:-1 ,TR24
+http://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 ,TSN Tele Sondrio News
+http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
+#EXTINF:-1 ,TV Qui (Modena)
+https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
+#EXTINF:-1 ,TV2000
+http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
+#EXTINF:-1 ,TV2000
+http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
+#EXTINF:-1 ,TV2000
+http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8
+#EXTINF:-1 ,TV7 Benevento
+http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
+#EXTINF:-1 ,TV7 Triveneta
+http://217.61.26.46:8080/hls/triveneta.m3u8
+#EXTINF:-1 ,TVA (Vicenza)
+http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
+#EXTINF:-1 ,TVRS
+http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+#EXTINF:-1 ,Vera TV (Marche)
+http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
+#EXTINF:-1 ,Vera TV Marche
+http://wms.shared.streamshow.it:1935/veratv/veratv/playlist.m3u8
+#EXTINF:-1 ,VH1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1 ,Videolina (Sardegna)
+http://livestreaming.videolina.it/live/Videolina/chunklist_w523418370.m3u8
+#EXTINF:-1 ,Videolina (Sardegna)
+http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
+#EXTINF:-1 ,Videostar TV (Lombardia)
+http://dreamsiteradiocpvideo.com:1935/vds/vds/playlist.m3u8
+#EXTINF:-1 ,51 Radio TV
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+#EXTINF:-1 ,Aurora Arte
+https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u8
+#EXTINF:-1 ,Azzurra TV
+https://sb.top-ix.org/avtvlive/streaming/playlist.m3u8
+#EXTINF:-1 ,CafèTV24
+http://srv3.meway.tv:1957/cafe/live/playlist.m3u8
+
+
+#EXTM3U
+#EXTINF:-1,Pierino contro tutti (Sasa)
+https://www.youtube.com/watch?v=4NF9kUjMuQA
+#EXTINF:-1,Gigi il Bullo
+https://www.youtube.com/watch?v=icVgKanct1Q
+#EXTINF:-1,Gianburasca
+https://www.youtube.com/watch?v=rh06-Lcr03M
+#EXTINF:-1,Pierino colpisce Ancora 
+https://www.youtube.com/watch?v=FHI-7C29qL4
+#EXTINF:-1,Pierino il medico della mutua
+https://www.youtube.com/watch?v=vLtYpodK4Sc
+#EXTINF:-1,Pierino torna a scuola
+https://www.youtube.com/watch?v=6WOVWZh-ipU
+#EXTINF:-1,Spogliamoci così senza pudore 
+https://www.youtube.com/watch?v=9N1Gcn0JF-g
+#EXTINF:-1,Ripetente fa occhiello al Preside
+https://www.youtube.com/watch?v=XbC3jKBEnCk
+
+
+
+#EXTM3U
+#EXTINF:-1,Fantozzi ( 1975) Sasa
+https://www.matteigiacomo.it/film/Fantozzi%20Collection-Serie%20Completa.(2019).ITA.Ac3.2.0.DVDRip.SD.X264-BaMax71-iDN_CreW/Fantozzi%20(1975).mkv
+#EXTINF:-1,Secondo tragico Fantozzi ( 1976)
+https://www.matteigiacomo.it/film/Fantozzi%20Collection-Serie%20Completa.(2019).ITA.Ac3.2.0.DVDRip.SD.X264-BaMax71-iDN_CreW/Il%20secondo%20tragico%20Fantozzi%20(1976).mkv
+#EXTINF:-1,Fantozzi contro tutti  ( 1980)
+https://www.matteigiacomo.it/film/Fantozzi%20Collection-Serie%20Completa.(2019).ITA.Ac3.2.0.DVDRip.SD.X264-BaMax71-iDN_CreW/Fantozzi%20contro%20tutti%20(1980).mkv
+#EXTINF:-1,Fantozzi subisce ancora ( 1983)
+https://www.matteigiacomo.it/film/Fantozzi%20Collection-Serie%20Completa.(2019).ITA.Ac3.2.0.DVDRip.SD.X264-BaMax71-iDN_CreW/Fantozzi%20subisce%20ancora%20(1983).mkv
+#EXTINF:-1,Super Fantozzi (1986)
+https://www.matteigiacomo.it/film/Fantozzi%20Collection-Serie%20Completa.(2019).ITA.Ac3.2.0.DVDRip.SD.X264-BaMax71-iDN_CreW/Superfantozzi%20(1986).mkv
+#EXTINF:-1,Fantozzi va in pensione ( 1988)
+https://www.matteigiacomo.it/film/Fantozzi%20Collection-Serie%20Completa.(2019).ITA.Ac3.2.0.DVDRip.SD.X264-BaMax71-iDN_CreW/Fantozzi%20Va%20In%20Pensione%20(1988).mkv
+#EXTINF:-1,Fantozzi alla riscossa ( 1990 )
+https://www.matteigiacomo.it/film/Fantozzi%20Collection-Serie%20Completa.(2019).ITA.Ac3.2.0.DVDRip.SD.X264-BaMax71-iDN_CreW/Fantozzi%20Alla%20Riscossa%20(1990).mkv
+#EXTINF:-1,Fantozzi va in paradiso( 1993) 
+https://www.matteigiacomo.it/film/Fantozzi%20Collection-Serie%20Completa.(2019).ITA.Ac3.2.0.DVDRip.SD.X264-BaMax71-iDN_CreW/Fantozzi%20In%20Paradiso%20(1993).mkv
+#EXTINF:-1,Fantozzi il ritorno (1996)
+https://www.matteigiacomo.it/film/Fantozzi%20Collection-Serie%20Completa.(2019).ITA.Ac3.2.0.DVDRip.SD.X264-BaMax71-iDN_CreW/Fantozzi%20Il%20Ritorno%20(1996).mkv
+#EXTINF:-1,Fantozzi 2000- La clonazione ( 1999)
+https://www.matteigiacomo.it/film/Fantozzi%20Collection-Serie%20Completa.(2019).ITA.Ac3.2.0.DVDRip.SD.X264-BaMax71-iDN_CreW/Fantozzi%202000-La%20clonazione%20(1999).mkv
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1,Natale in casa Cupiello (Sasa)
+https://uscreativemedia6-vh.akamaihd.net/i/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_2/7893031_,700,1200,1800,.mp4.csmil/master.m3u8?auth=daEbndDb7apdNbobubjaSdlahbla7dId6d1-bFIJC1-c0-DmAvAEs&aifp=V001
+#EXTINF:-1,Filumena  Marturano
+https://uscreativemedia6-vh.akamaihd.net/i/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_2/7888493_,700,1200,1800,.mp4.csmil/master.m3u8?auth=daEaZbnaId1ckaBdEbibPcIc5badscadVaC-bFITiK-c0-BkuuvHq&aifp=V001
+#EXTINF:-1,Questi Fantasmi 
+https://uscreativemedia7-vh.akamaihd.net/i/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_2/7892308_,700,1200,1800,.mp4.csmil/master.m3u8?auth=daEc6dvbubmbDdodObCd2b.d4a8c8aQcPcv-bFITj_-c0-ImsvrFp&aifp=V001
+#EXTINF:-1,Napoli Milionaria 
+https://uscreativemedia6-vh.akamaihd.net/i/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_2/7888300_,700,1200,1800,.mp4.csmil/master.m3u8?auth=daEd4cBaBb1d0dfaia1boahbZamacbbc8dS-bFITli-c0-GlyuyFq&aifp=V001
+#EXTINF:-1,Uomo e Gentiluomo 
+https://uscreativemedia6-vh.akamaihd.net/i/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_2/7893619_,700,1200,1800,.mp4.csmil/master.m3u8?auth=daEblbWdHcnb3aEd5ckbEcHd7cYb8dKd8dz-bFITl3-c0-BkzxuGq&aifp=V001
+#EXTINF:-1,Gli Esami non finiscono mai
+https://uscreativemedia6-vh.akamaihd.net/i/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_2/7284524_,700,1200,1800,.mp4.csmil/index_0_av.m3u8?null=0
+#EXTINF:-1,Miseria e Nobiltà 
+https://uscreativemedia6-vh.akamaihd.net/i/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_2/7306522_,700,1200,1800,.mp4.csmil/master.m3u8?auth=daEbmb7c5aWchdbb9cpdRdAdRbYcNc6bFcV-bFIToz-c0-CkAwyEv&aifp=V001
+#EXTINF:-1,Il Sindaco della regione Sanità 
+https://uscreativemedia6-vh.akamaihd.net/i/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_2/8000861_,700,1200,1800,.mp4.csmil/master.m3u8?auth=daEa5adcaafaQcRb2bCd5cfa5cqctdccidL-bFITpi-c0-HjuwrEs&aifp=V001
+#EXTINF:-1,On ti pago
+https://uscreativemedia7-vh.akamaihd.net/i/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_2/7893935_,700,1200,1800,.mp4.csmil/master.m3u8?auth=daEdHbib8cScfaFdoakdIcscidma3cQa1ch-bFITp6-c0-DkzvrGr&aifp=V001
+#EXTINF:-1,De Pretore Vincenzo 
+https://uscreativemedia6-vh.akamaihd.net/i/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_2/7882885_,700,1200,1800,.mp4.csmil/master.m3u8?auth=daEdeaZaQcydSapacclaCbQbgcfcscFcza3-bFITqR-c0-EjsutGr&aifp=V001
+#EXTINF:-1,Le voci dentro 
+https://uscreativemedia6-vh.akamaihd.net/i/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_2/7887820_,700,1200,1800,.mp4.csmil/master.m3u8?auth=daEcrbZdncwa7a4bOdWcBdMbyacawcsaTco-bFITrG-c0-HksxuGp&aifp=V001
+#EXTINF:-1,Il medico dei pazzi
+https://uscreativemedia6-vh.akamaihd.net/i/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_2/7998965_,700,1200,1800,.mp4.csmil/index_0_av.m3u8?null=0
+#EXTINF:-1,I nipoti del Sindaco 
+https://uscreativemedia7-vh.akamaihd.net/i/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_2/7262885_,700,1200,1800,.mp4.csmil/master.m3u8?auth=daEbCb5dRcid6c1bubodYb_dCazcjbAbCb4-bFITtN-c0-IkyxuGv&aifp=V001
+#EXTINF:-1,I morti non fanno paura
+https://uscreativemedia6-vh.akamaihd.net/i/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_2/7258362_,700,1200,1800,.mp4.csmil/master.m3u8?auth=daEbubfcdaKdod0cDajafc1b.a6c5bNbXbD-bFITuF-c0-AkwwuEt&aifp=V001
+#EXTINF:-1,Gennareniello
+https://uscreativemedia7-vh.akamaihd.net/i/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_2/7284202_,700,1200,1800,.mp4.csmil/master.m3u8?auth=daEdXdvdwa5cccIccdRb.aVc4a7cYdmc4cJ-bFITvm-c0-JmsxtEu&aifp=V001
+#EXTINF:-1,Na Santarella
+https://uscreativemedia6-vh.akamaihd.net/i/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_2/7262460_,700,1200,1800,.mp4.csmil/master.m3u8?auth=daEc0cwbBbebXbRcmbpcnb5djaBcjbCaCcO-bFITwf-c0-CltvyFr&aifp=V001
+#EXTINF:-1,Chi è  più Felice di me 
+https://uscreativemedia7-vh.akamaihd.net/i/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_2/7883428_,700,1200,1800,.mp4.csmil/master.m3u8?auth=daEa4bcbpaTaZcYazdUcpaNakdDc_d2dMcL-bFITBf-c0-GktvwEs&aifp=V001
+#EXTINF:-1,L'arte della commedia 
+https://uscreativemedia7-vh.akamaihd.net/i/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_2/7886534_,700,1200,1800,.mp4.csmil/master.m3u8?auth=daEawbubJcjctc9d1csbAdZcmaOcddZcvbF-bFITB2-c0-CkrvwGw&aifp=V001
+#EXTINF:-1,L'abito nuovo 
+https://uscreativemedia6-vh.akamaihd.net/i/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_2/7257314_,700,1200,1800,.mp4.csmil/master.m3u8?auth=daEcoaWbPd_csd0b2dUaadpcAb.cybacqcu-bFITCG-c0-EjzvsHq&aifp=V001
+#EXTINF:-1,Mia famiglia 
+https://uscreativemedia6-vh.akamaihd.net/i/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_2/7888175_,700,1200,1800,.mp4.csmil/master.m3u8?auth=daEcjdvc5cEb1cudmcKbpaTcScIa.bpcRbs-bFITDp-c0-JmswyGn&aifp=V001
+#EXTINF:-1,Ditegli sempre di si 
+https://uscreativemedia6-vh.akamaihd.net/i/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_2/7882652_,700,1200,1800,.mp4.csmil/master.m3u8?auth=daEcAdPbMdPdfbjaAdJdia6dJaEavayafat-bFITD9-c0-GmsvzHo&aifp=V001
+#EXTINF:-1,La Grande magia 
+https://uscreativemedia6-vh.akamaihd.net/i/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_2/7285145_,700,1200,1800,.mp4.csmil/index_0_av.m3u8?null=0
+#EXTINF:-1,La fortuna con la effe maiuscola 
+https://uscreativemedia7-vh.akamaihd.net/i/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_2/7886835_,700,1200,1800,.mp4.csmil/master.m3u8?auth=daEdRaralcgbFb_aAa7dnbMaTdBaRcqaFbn-bFITFO-c0-DjyusGt&aifp=V001
+
+
+
+#EXTM3U
+#EXTINF:-1,TOTÒ Truffa 62
+https://youtu.be/lNg0XWsZL4Y
+#EXTINF:-1,La Banda degli onesti 
+https://youtu.be/_Xr-_FsnpDo
+#EXTINF:-1,TOTÒ Peppino e le fanatiche 
+https://youtu.be/9np7vy7K2iM
+#EXTINF:-1,TOTÒ nella fossa dei leoni 
+https://youtu.be/gVl7Hjlod0s
+#EXTINF:-1,Chi si ferma è perduto (Sasa)
+https://youtu.be/Bi_uhIRAoF8
+#EXTINF:-1,Miseria e Nobiltà 
+https://youtu.be/sIfR6a6pj-4
+#EXTINF:-1,Arrangiatevi
+https://youtu.be/XF1D6hPjMDU
+#EXTINF:-1,TOTÒ Peppino e i fuorilegge 
+https://youtu.be/UsjQyfWOxBQ
+#EXTINF:-1,47 morto che parla 
+https://youtu.be/5YjjaYzsX3I
+#EXTINF:-1,TOTÒ a colori 
+https://youtu.be/7jq1_NZ-oJc
+#EXTINF:-1,TOTÒ e i giovani d'oggi 
+https://youtu.be/evSKOxI_vvQ
+#EXTINF:-1,TOTÒ Peppino e la malafemmina 
+https://youtu.be/0tSg7xDAacY
+#EXTINF:-1,TOTÒ contro maciste 
+https://youtu.be/Kb1fduj-jdY
+#EXTINF:-1,Letto a tre piazze 
+https://youtu.be/2bTsZyJAf-Y
+#EXTINF:-1,I tre ladri 
+https://youtu.be/yjU6jZ0PZVk
+#EXTINF:-1,TOTÒ e Marcellino 
+https://youtu.be/hZgm_OVU86k
+#EXTINF:-1,TOTÒ Diabolicus 
+https://youtu.be/3Z2Jq0E2M30
+#EXTINF:-1,Un Turco Napoletano 
+https://youtu.be/NhQt-886xJc
+#EXTINF:-1,I Due Marescialli 
+https://youtu.be/Ee0ShjXI5kM
+#EXTINF:-1,TOTÒ le moko 
+https://youtu.be/PyAufVJ7QPk
+#EXTINF:-1,TOTÒ al giro d'Italia 
+https://youtu.be/7gAxrXHrphw
+#EXTINF:-1,I Due orfanelli 
+https://youtu.be/UfGEhk6_M5c
+#EXTINF:-1,Uccellacci Uccellini 
+https://youtu.be/YDF6ODBbKgA
+#EXTINF:-1,Sua eccellenza si fermò a mangiare 
+https://youtu.be/NIER9aPENEQ
+#EXTINF:-1,L'imperatore di Capri 
+https://youtu.be/UX2HEpU3Z1E
+#EXTINF:-1,Il Monaco di Monza 
+https://youtu.be/vDnQuwTgv5k
+#EXTINF:-1,Signori si Nasce 
+https://youtu.be/n8rlAiV0kqA
+#EXTINF:-1,TOTÒ Peppino divisi a Berlino 
+https://youtu.be/1F7H-zfGXtk
+#EXTINF:-1,TOTÒ contro il pirata nero 
+https://youtu.be/mY7h-TXJp6Y
+#EXTINF:-1,TOTÒ contro i quattro 
+https://youtu.be/tehb2QOoRnI
+#EXTINF:-1,TOTÒ Sceicco 
+https://youtu.be/Ngr-xqUouMQ
+#EXTINF:-1,TOTÒ Cleopatra 
+https://youtu.be/GTL72nLTPjc
+#EXTINF:-1,TOTÒ a Parigi 
+https://youtu.be/CxGFomUiVAg
+#EXTINF:-1,Lo smemorato di Collegno 
+https://youtu.be/hCH0-sYG-jI
+#EXTINF:-1,I due orfanelli 
+https://youtu.be/O6xOuhVw2rM
+#EXTINF:-1,TOTÒ e i Re di Roma 
+https://youtu.be/6OmeKJ6azeo
+#EXTINF:-1,Siamo uomini o caporali 
+https://youtu.be/xbNDHM0iuvc
+#EXTINF:-1,TOTÒ D'Arabia
+https://youtu.be/kAaPgndkdc8
+#EXTINF:-1,TOTÒ SEXI
+https://youtu.be/xBJfRzlf4ho
+#EXTINF:-1,San Giovanni Decollato 
+https://youtu.be/BSUXQUpytgg
+#EXTINF:-1,TOTÒ nella fossa dei leoni 
+https://youtu.be/gVl7Hjlod0s
+#EXTINF:-1,Che fine ha fatto TOTÒ Baby 
+https://youtu.be/1p5NmNXRVWo
+#EXTINF:-1,Il Coraggio 
+https://youtu.be/cJ4CylFe0lI
+#EXTINF:-1,FIFA e Arena 
+https://youtu.be/MLAgliPEnuU
+#EXTINF:-1,TOTÒ lascia o Raddoppia 
+https://youtu.be/SBDuZx6l6-k
+
+
+#EXTM3U
+#EXTINF:-1,I Sette Re Di Roma ( Sasa)
+https://youtu.be/5_VohGh6ijo
+#EXTINF:-1,Caro Petrolini
+https://youtu.be/moOl1bfmKRo
+#EXTINF:-1,Meno Patacca 
+https://youtu.be/jG2xJ1iPe_M
+#EXTINF:-1,Tutti al mare (2011)
+https://youtu.be/j8SQRxGE8DI
+#EXTINF:-1,Cyrano (1985)
+https://youtu.be/JajWYDLgdes
+#EXTINF:-1,Camere D'affitto 
+https://youtu.be/yQz2p8-XBog
+#EXTINF:-1,La Tosca di Luigi Magni ( 1973)
+https://youtu.be/JEJMFdKudjI
+#EXTINF:-1,Attore a modo mio ( 1974/1984 ) 
+https://youtu.be/_RqJSvoDr30
+#EXTINF:-1,Bordella (1976)
+https://youtu.be/ajkRsOSDydI
+#EXTINF:-1,A me gli occhi please (2000)
+https://youtu.be/qonQz-I87aQ
+#EXTINF:-1,Serata D'onore (2004) 
+https://youtu.be/EtYsq6phxCM
+#EXTINF:-1,Maresciallo Rocca - Crudele Destino
+https://youtu.be/_A8Ueukkag4
+#EXTINF:-1,Febbre da cavallo ( 1976)
+https://uscreativemedia6-vh.akamaihd.net/i/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/12793416_,700,1200,1800,2400,.mp4.csmil/index_0_av.m3u8?null=0
+#EXTINF:-1,Febbre da cavallo 2 
+https://youtu.be/xd7V1hxK4L0
+#EXTINF:-1,Edmund Kean 
+https://youtu.be/SWTRfT3R20A
+#EXTINF:-1,Sabato dalle 9 alle 10 ( Varietà)
+https://uscreativemedia6-vh.akamaihd.net/i/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_3/10018534_,250,400,700,1200,1800,.mp4.csmil/index_0_av.m3u8?null=0
+#EXTINF:-1,Attore  Amore Mio ( Varietà)
+https://uscreativemedia6-vh.akamaihd.net/i/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_3/9913981_,250,400,700,1200,1800,.mp4.csmil/index_0_av.m3u8?null=0
+#EXTINF:-1,Sketch con le migliori Barzellette 
+https://youtu.be/BpU9k4TJw-s
+#EXTINF:-1,L'educazione Sessuale ( Sketch)
+https://youtu.be/ZeJV11iVp2Q
+#EXTINF:-1,Un' me rompe er ca 
+https://youtu.be/cS8RKBX8hks
+#EXTINF:-1,Addio al maestro Gigi Proietti
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/Rai/Playlist24/13407121_,1800,2400,.mp4.csmil/index_0_av.m3u8?null=0
+
+
+
