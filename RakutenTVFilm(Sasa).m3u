@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,Lista Film Rukuten TV ( Sasa)
+https:/test 
+#EXTINF:-1,Bizzarro Movie  (Sasa)
+https://797fbe152cbe418697be037aef3a708f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_BizzarroMovies/7200e363-5f16-4d44-8f1d-5adb843a5133/2.m3u8
+#EXTINF:-1,CGTV (Sasa)
+https://99d8c10bb3a6428ca41d80c034b759f1.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_CGtv/53ab4a45-07fd-4914-b68a-22b7c60101c4/2.m3u8
+#EXTINF:-1,Cinema Segreto (Sasa) 
+https://9e46da7e898449668789c1b36e25aea6.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_CinemaSegreto/592aafba-d5cb-4b6b-a017-23edcb019cd5/2.m3u8
+#EXTINF:-1,Dark Matter (Sasa) 
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00434-tricoast-darkmatter-italy-samsunguk/7ab31a47-1418-4805-ad68-0e774ead62f7/2.m3u8
+#EXTINF:-1,Film D'Azione (Sasa)
+https://8355c6b6739745309af5484182dab133.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_RakutenActionMovies/ceb18f19-37d0-48d2-871a-242bd40eee74/2.m3u8
+#EXTINF:-1,Film Commedia (Sasa)
+https://b88478e868cf4297904debbdc3ad1c23.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_RakutenComedyMovies/aa6cd11f-305a-42fb-a0c9-3be59570f668/2.m3u8
+#EXTINF:-1,Documentari  (Sasa)
+https://587286c0214643248b38410a58ba2066.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_RakutenDocumentaries/cb7cf3aa-6531-415a-b5d6-63fb4f3bcfa5/1.m3u8
+#EXTINF:-1,Dramma  (Sasa)
+https://8077fe81975344b291027f32b011511d.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_RakutenTVShows/0f8d7e4c-b785-4df1-a656-e58a43a0b161/2.m3u8
+#EXTINF:-1,Family  (Sasa)
+https://1c22f8b96aa546b6b49261186cf7b8e5.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_RakutenFamily/a8b997c9-40f2-4d9a-93ab-88ead8412171/2.m3u8
+#EXTINF:-1,Shorts  (Sasa)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00784-shortsinternati-shortstv-fast-italy-samsungit/f6e4be8b-e90c-48f5-b361-7b4cbf58bc75/3.m3u8
+#EXTINF:-1,Storie (Sasa)
+https://4cad804950cc426681256927bdf78296.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_RakutenSpotlight/3f93c450-42f8-4bf9-a492-1a86c3caa894/2.m3u8
+#EXTINF:-1,Sofy (Sasa)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-sofytv-samsung-it/5e185dcb-fe76-4b25-ad2f-624cb2de1c79/1.m3u8
